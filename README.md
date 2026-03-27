@@ -22,7 +22,7 @@ Published in *International Journal of Science, Engineering and Technology (IJSE
 
 * Managed and coordinated event activities ensuring smooth execution
 * Demonstrated leadership, teamwork, and organizational skills
-  👉 [View Certificate](your-speakers-link-here)
+  [View Certificate]
 
  **Volunteer – UTKARSH 2024–25**
 
@@ -38,7 +38,7 @@ Published in *International Journal of Science, Engineering and Technology (IJSE
 
 * Learned fundamentals of HTML, CSS, and responsive design
 * Built a foundation for modern web development
-   [View Certificate](your-course-link-here)
+   [View Certificate] https://raw.githubusercontent.com/Rishika-raj-123/my-certificates/main/courses/web_development_html_css_certificate.pdf
 
 ---
 
