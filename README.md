@@ -38,7 +38,7 @@ Published in *International Journal of Science, Engineering and Technology (IJSE
 
 * Learned fundamentals of HTML, CSS, and responsive design
 * Built a foundation for modern web development
-   [View Certificate] https://raw.githubusercontent.com/Rishika-raj-123/my-certificates/main/courses/web_development_html_css_certificate.pdf
+[View Certificate](https://raw.githubusercontent.com/Rishika-raj-123/my-certificates/main/courses/web_development_html_css_certificate.pdf)
 
 ---
 
