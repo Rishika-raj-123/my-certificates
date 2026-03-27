@@ -7,37 +7,37 @@ This repository reflects my journey of continuous learning, technical developmen
 
 ##  Research & Publications
 
-🔬 **Digital Health Twin for Kidney Function Monitoring**
+ **Digital Health Twin for Kidney Function Monitoring**
 Published in *International Journal of Science, Engineering and Technology (IJSET), 2025*
 
 * Focused on healthcare modeling and physiological simulation
 * Demonstrates application of technology in real-world medical problems
-  👉 [View Certificate](your-publication-link-here)
+   | [View Certificate](https://raw.githubusercontent.com/Rishika-raj-123/my-certificates/main/publications/digital_health_twin_publication_certificate.pdf)
 
 ---
 
 ##  Leadership & Volunteering
 
-🎤 **Organizer – Speakers’ Arena 2025**
+ **Organizer – Speakers’ Arena 2025**
 
 * Managed and coordinated event activities ensuring smooth execution
 * Demonstrated leadership, teamwork, and organizational skills
-  [View Certificate]
+  | [View Certificate](https://raw.githubusercontent.com/Rishika-raj-123/my-certificates/main/volunteering/speakers_arena_organizer_certificate.pdf)
 
  **Volunteer – UTKARSH 2024–25**
 
 * Contributed to social welfare initiatives and community engagement
 * Showcased responsibility, teamwork, and commitment
-   [View Certificate](your-utkarsh-link-here)
+   | [View Certificate](https://raw.githubusercontent.com/Rishika-raj-123/my-certificates/main/courses/web_development_html_css_certificate.pdf)
 
 ---
 
 ##  Courses & Certifications
 
-💻 **Responsive Web Development (HTML & CSS)** – Infosys Springboard (2025)
+ **Responsive Web Development (HTML & CSS)** – Infosys Springboard (2025)
 
 * Learned fundamentals of HTML, CSS, and responsive design
-* Built a foundation for modern web development
+* Built a foundation for modern web development | 
 [View Certificate](https://raw.githubusercontent.com/Rishika-raj-123/my-certificates/main/courses/web_development_html_css_certificate.pdf)
 
 ---
